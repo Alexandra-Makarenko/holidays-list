@@ -12,7 +12,6 @@ export const Section = styled.section`
   display: flex;
   width:100%;
   
-  
 `;
 export const Button = styled.button`
    min-width: 50px;

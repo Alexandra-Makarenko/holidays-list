@@ -32,16 +32,16 @@ export const App = () => {
   }, [dispatch]);
 return (
   <Layout >    
-    <h1>React Test</h1>    <div >
-      
+    <h1>React Test</h1>
+    <div >      
       <section >
         <Filter />               
           <Button onClick={onSortClick}>Sort by { sort?'asc':'dsc' }</Button>
         <Button onClick={onResetClick}>Reset</Button>
-        {(isLoading || holidaysIsLoading ) && <ColorRing
+        {(isLoading || holidaysIsLoading) && <ColorRing
 visible={true}
-height="50"
-width="50"
+height="40"
+width="40"
 ariaLabel="blocks-loading"
 wrapperStyle={{}}
 wrapperClass="blocks-wrapper"

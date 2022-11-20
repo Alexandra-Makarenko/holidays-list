@@ -1,5 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { showHolidays} from "./operations";
+import { showHolidays } from "./operations";
+
 
 const handlePending = state => {
   state.isLoading = true;
