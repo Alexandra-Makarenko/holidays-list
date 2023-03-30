@@ -1,4 +1,3 @@
-// import PropTypes from 'prop-types';
 import { useDispatch } from "react-redux";
 import { setFilter } from "../../redux/filterSlice";
 export const Filter = () => {
@@ -11,7 +10,7 @@ export const Filter = () => {
   };
 
   return (<label>
-    Search text
+    Search 
     <input type="text" onChange={onChange} />
   </label>)
 };

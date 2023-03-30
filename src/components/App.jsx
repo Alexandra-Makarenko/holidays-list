@@ -32,7 +32,7 @@ export const App = () => {
   }, [dispatch]);
 return (
   <Layout >    
-    <h1>React Test</h1>
+    <h1>Holidays List</h1>
     <div >      
       <section >
         <Filter />               

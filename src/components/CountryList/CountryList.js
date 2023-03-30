@@ -1,4 +1,3 @@
-// import PropTypes from 'prop-types';
 import { ListItem } from '../ListItem/ListItem';
 import { List, Item,Box } from './CountryList.styled';
 import { useEffect } from "react";
