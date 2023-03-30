@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/this-is-software-tech-task/static/css/main.7acaea2f.css",
-    "main.js": "/this-is-software-tech-task/static/js/main.f20219ff.js",
-    "index.html": "/this-is-software-tech-task/index.html",
-    "main.7acaea2f.css.map": "/this-is-software-tech-task/static/css/main.7acaea2f.css.map",
-    "main.f20219ff.js.map": "/this-is-software-tech-task/static/js/main.f20219ff.js.map"
+    "main.css": "/holidays-list/static/css/main.7acaea2f.css",
+    "main.js": "/holidays-list/static/js/main.b1223856.js",
+    "index.html": "/holidays-list/index.html",
+    "main.7acaea2f.css.map": "/holidays-list/static/css/main.7acaea2f.css.map",
+    "main.b1223856.js.map": "/holidays-list/static/js/main.b1223856.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.f20219ff.js"
+    "static/js/main.b1223856.js"
   ]
 }
